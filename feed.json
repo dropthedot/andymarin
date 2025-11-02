@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Andy",
+    "description": "",
+    "home_page_url": "https://dropthedot.github.io/andymarin",
+    "feed_url": "https://dropthedot.github.io/andymarin/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Andy M."
+    },
+    "items": [
+    ]
+}
